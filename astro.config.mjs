@@ -23,7 +23,7 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://fuwari.vercel.app/",
+  site: "https://dalufishe-v2-dev.vercel.app/",
   base: "/",
   integrations: [
     tailwind(),
@@ -48,7 +48,7 @@ export default defineConfig({
     Compress({
       Image: false,
     }),
-    svelte(),
+    svelte()
   ],
   markdown: {
     remarkPlugins: [remarkMath, remarkReadingTime],
@@ -90,5 +90,5 @@ export default defineConfig({
         },
       },
     },
-  },
+  }
 })
