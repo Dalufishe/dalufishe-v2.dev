@@ -1,5 +1,5 @@
 ---
-title: 擊敗海森堡
+title: 體驗與自省之間
 published: 2024-09-16
 description: ""
 image: ""
