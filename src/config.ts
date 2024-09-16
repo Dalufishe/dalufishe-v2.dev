@@ -12,8 +12,9 @@ export const siteConfig: SiteConfig = {
   lang: 'zh_TW',
   themeHue: 250,
   banner: {
-    enable: false,
-    src: 'assets/images/demo-banner.png',
+    enable: true,
+    src: 'assets/images/test2.jpg',
+    
   },
 }
 
@@ -33,7 +34,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'https://avatars.githubusercontent.com/u/118270401?v=4',
   name: 'Dalufishe',
-  bio: 'Build softwares & lead to a better life.',
+  bio: '希望透過創造讓世界更美好。',
   links: [
     {
       name: 'Twitter',
