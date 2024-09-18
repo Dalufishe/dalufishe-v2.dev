@@ -63,4 +63,4 @@ draft: false
 
 ---
 
-若對上述內容有更多興趣不妨參考 [The Art of Game Design](extension://bocbaocobfecmglnmeaeppambideimao/pdf/viewer.html?file=https%3A%2F%2Fwww.inventoridigiochi.it%2Fwp-content%2Fuploads%2F2020%2F07%2Fart-of-game-design.pdf) 第 48 頁 ***Defeating Heisenberg*** 篇章。
+若對上述內容有更多興趣不妨參考 [The Art of Game Design](https://www.inventoridigiochi.it/wp-content/uploads/2020/07/art-of-game-design.pdf) 第 48 頁 ***Defeating Heisenberg*** 篇章。
