@@ -5,7 +5,7 @@ description: ""
 image: ""
 tags: ["Introspection", "Game Designs"]
 category: "自我思考"
-draft: false
+draft: true
 ---
 
 在閱讀 The Art of Game Design 這本書，作者反覆提到遊戲設計師所創造「體驗」，描述唯有精通並理解人類的感受 (Human experience) ，才能做出深植人心的好遊戲。
